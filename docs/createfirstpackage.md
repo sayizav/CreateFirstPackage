@@ -1,4 +1,0 @@
-
-# createfirstpackage module
-
-::: createfirstpackage.createfirstpackage
