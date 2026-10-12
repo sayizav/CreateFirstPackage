@@ -10,7 +10,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://sayizav.github.io/CreateFirstPackage
-    
+
 
 ## Features
 

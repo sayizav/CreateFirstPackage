@@ -2,7 +2,6 @@
 
 """Tests for `createfirstpackage` package."""
 
-
 import unittest
 
 from createfirstpackage import createfirstpackage
